@@ -1,0 +1,1 @@
+# Python-ile-Random-Say-Tahmin-Etme-
